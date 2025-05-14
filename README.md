@@ -3,7 +3,10 @@
 A responsive and visually appealing clone of the Netflix homepage built using **HTML** and **CSS**. This project replicates the design and layout of Netflix, focusing on front-end development and UI/UX styling.
 
 ---
+## Live Demo
+[X Clone](https://x-by-piyush.netlify.app "Visit website")
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2439608c-31ef-450c-88ed-67c6923be7f6/deploy-status)](https://app.netlify.com/sites/x-rmb/deploys)
 ## 🔥 Features
 
 - 🎥 Clean and modern UI
