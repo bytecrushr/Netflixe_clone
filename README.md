@@ -66,12 +66,6 @@ Inspired by the Netflix homepage design. Built as a front-end practice project.
 
 ---
 
-## 📸 Preview
-
-*(Add screenshot of your project here if available)*
-
----
-
 ## 📬 Connect with Me
 
 - GitHub: [piyushsahu183](https://github.com/piyushsahu183)
