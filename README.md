@@ -6,7 +6,8 @@ A responsive and visually appealing clone of the Netflix homepage built using **
 ## Live Demo
 [X Clone](https://x-by-piyush.netlify.app "Visit website")
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2439608c-31ef-450c-88ed-67c6923be7f6/deploy-status)](https://app.netlify.com/sites/x-rmb/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2439608c-31ef-450c-88ed-67c6923be7f6/deploy-status)](https://app.netlify.com/projects/piyush-flix/deploys)
+
 ## 🔥 Features
 
 - 🎥 Clean and modern UI
